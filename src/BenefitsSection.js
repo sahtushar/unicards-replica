@@ -31,7 +31,7 @@ function BenefitsSection() {
                 <div className="style-12">
                   <img
                     src="https://www.uni.cards/images/one_percent_cashback.png"
-                    className="style-13"
+                    className="style-13 images"
                   />
                 </div>
               </div>
@@ -51,7 +51,7 @@ function BenefitsSection() {
             <div className="style-20">
               <div className="style-21">
                 <div className="style-22">
-                  <img src="https://www.uni.cards/images/five_x_rewards.png" className="style-23" />
+                  <img src="https://www.uni.cards/images/five_x_rewards.png" className="style-23 images" />
                 </div>
               </div>
             </div>
@@ -72,7 +72,7 @@ function BenefitsSection() {
             <div className="style-31">
               <div className="style-32">
                 <div className="style-33">
-                  <img src="https://www.uni.cards/images/forex_globe.png" className="style-34" />
+                  <img src="https://www.uni.cards/images/forex_globe.png" className="style-34 images" />
                 </div>
               </div>
             </div>

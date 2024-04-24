@@ -43,6 +43,9 @@
     overflow-wrap: break-word;
     border-width: 0px;
     border-style: solid;
+    @media (max-width: 1024px) {
+      flex-direction: column;
+    }
   }
 
   .style-3 {
@@ -76,6 +79,11 @@
     overflow-wrap: break-word;
     border-width: 0px;
     border-style: solid;
+    @media (max-width: 1024px) {
+      font-size: 28px;
+      line-height: 25px;
+      margin-left: 100px;
+    }
   }
 
   .style-6 {
@@ -121,6 +129,10 @@
     overflow-wrap: break-word;
     border-width: 0px;
     border-style: solid;
+    @media (max-width: 1024px) {
+      line-height: 25px;
+      margin-left: 100px;
+    }
   }
 
   .style-10 {
@@ -159,6 +171,11 @@
     border-style: solid;
   }
 
+  .images {
+    @media (max-width: 1024px) {
+      width: 300px;
+    }
+  }
   .style-13 {
     border-color: rgb(229, 231, 235);
     max-width: 100%;
@@ -188,6 +205,9 @@
     overflow-wrap: break-word;
     border-width: 0px;
     border-style: solid;
+    @media (max-width: 1024px) {
+      flex-direction: column;
+    }
   }
 
   .style-15 {
@@ -221,6 +241,11 @@
     overflow-wrap: break-word;
     border-width: 0px;
     border-style: solid;
+    @media (max-width: 1024px) {
+      font-size: 28px;
+      line-height: 25px;
+      margin-left: 100px;
+    }
   }
 
   .style-18 {
@@ -311,6 +336,9 @@
     overflow-wrap: break-word;
     border-width: 0px;
     border-style: solid;
+    @media (max-width: 1024px) {
+      flex-direction: column;
+    }
   }
 
   .style-25 {
@@ -344,6 +372,11 @@
     overflow-wrap: break-word;
     border-width: 0px;
     border-style: solid;
+    @media (max-width: 1024px) {
+      font-size: 28px;
+      line-height: 25px;
+      margin-left: 100px;
+    }
   }
 
   .style-28 {
